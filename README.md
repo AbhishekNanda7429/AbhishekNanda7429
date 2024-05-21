@@ -1,11 +1,13 @@
 <h1 align="center"> Hi There 👋 </h1>
 
 * I am [Abhishek Nanda](https:https://github.com/AbhishekNanda7429) :smiley:	 <br>
-* Currently I am a third year student from KIIT, Bhubaneswar in Computer Science :computer:
+* I graduated from KIIT, Bhubaneswar in Computer Science :computer:
 * Interests and experience :
   * Cloud computing:cloud:
   * Mobile app development:iphone:
   * Machine Learning using CNN:
+  * Application Development
+  * Automation Testing
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 
@@ -28,11 +30,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Flutter app development
+- 🔭 I’m currently working as a Software Developer/Devops Engineer at CloudBuilders
 
-- 🌱 I’m currently learning Flutter with dart and Python
-
-- 🤔 I’m looking for help with Web Development
 
 
 

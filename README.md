@@ -32,6 +32,19 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Software Developer/Devops Engineer at CloudBuilders
 
+  Programming Language:
+- React
+- Node
+- JavaScript
+- Python
+  
+  Skill Set:
+- CDK
+- CAMUNDA orchestration platform
+- AWS PowerTools
+- Building Custom Package for CDK
+- Full stack Development
+
 
 
 
@@ -44,11 +57,11 @@ Here are some ideas to get you started:
 <!--* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .-->
 
 
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+<!--* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb: -->
 
 <!--* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)-->
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https:www.linkedin.com/in/abhishek-nanda-055412187) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/abhisheknanda-sde/) :sparkler:
 
 
 ## Tech Stack :computer:

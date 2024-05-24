@@ -3,11 +3,12 @@
 * I am [Abhishek Nanda](https:https://github.com/AbhishekNanda7429) :smiley:	 <br>
 * I graduated from KIIT, Bhubaneswar in Computer Science :computer:
 * Interests and experience :
-  * Cloud computing:cloud:
-  * Mobile app development:iphone:
+  * Cloud computing
+  * Mobile app development
   * Machine Learning using CNN
   * Application Development
   * Automation Testing
+  * DevOps in AWS,Azure
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
 

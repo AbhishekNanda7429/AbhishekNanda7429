@@ -5,7 +5,7 @@
 * Interests and experience :
   * Cloud computing:cloud:
   * Mobile app development:iphone:
-  * Machine Learning using CNN:
+  * Machine Learning using CNN
   * Application Development
   * Automation Testing
   
